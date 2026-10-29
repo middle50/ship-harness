@@ -128,7 +128,7 @@ reasoning behind a change is worth more than the change.
 between you and the maintainers. See [SECURITY.md](SECURITY.md) for what to
 expect.
 
-Maintained under the [FormVidya](https://github.com/formvidya) organization.
+Maintained by [@middle50](https://github.com/middle50).
 
 ## License
 
